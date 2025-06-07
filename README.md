@@ -34,8 +34,14 @@ For a detailed, step-by-step development plan, please see the [ROADMAP.md](ROADM
 
 ## Contributing
 
-(Details on how to contribute will be added as the project progresses. For now, please refer to the ROADMAP.md for planned features and development stages.)
+Contributions are welcome! While the project is still in active development, we encourage you to:
+- Review the [ROADMAP.md](ROADMAP.md) for planned features
+- Open issues for bugs or feature requests
+- Submit pull requests with improvements
+- Share your feedback and ideas
+
+Please ensure your code follows the project's style and includes appropriate tests.
 
 ## License
 
-(License to be determined and added later.)
+This project is currently under development. The license will be determined soon. All rights reserved until a license is chosen.
