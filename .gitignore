@@ -1,0 +1,16 @@
+# Gradle
+.gradle/
+build/
+
+# IDE files (common examples)
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# User-requested ignores
